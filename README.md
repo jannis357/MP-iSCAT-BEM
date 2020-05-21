@@ -11,3 +11,10 @@ The toolbox is published in: U. Hohenester and A. Trügler. "MNPBEM - A Matlab t
 The code needs an installed MNPBEM toolbox to be executable!
 
 The simulation for the MP-IRIS uses 'jreftran - A layered thin film transmission and reflection coefficient calculator' by Shawn Divitt (https://de.mathworks.com/matlabcentral/fileexchange/50923-jreftran-a-layered-thin-film-transmission-and-reflection-coefficient-calculator)
+
+-----------------------
+
+MP_iSCAT_defocus_curve.m --> Script to simulate a defocus curve of a nanoparticle in MP-iSCAT
+MP_IRIS_defocus_curve.m --> Script to simulate a defocus curve of a nanoparticle in MP-IRIS
+
+The other files are functions needed to run the two scripts.
