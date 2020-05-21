@@ -1,8 +1,7 @@
 # MP-iSCAT-BEM
-BEM simulations with the MNPBEM toolbox for my master thesis in the group of Thomas Juffmann, University of Vienna
-Group homepage: https://imaging.univie.ac.at/
+BEM simulations with the MNPBEM toolbox for my master thesis in the group of Thomas Juffmann (https://imaging.univie.ac.at/), University of Vienna
 
-The code is adapted from BEM simulations of the SP-IRIS community, which is published on https://github.com/derinsevenler/SP-IRIS-BEM/
+The code is adapted from BEM simulations of the SP-IRIS community, which is published on https://github.com/derinsevenler/SP-IRIS-BEM/  
 The SP-IRIS code was used for simulations in: D. Sevenler, O. Avci, and M. S. Ünlü. "Quantitative interferometric reflectance imaging for the detection and measurement of biological nanoparticles". In: Biomedical Optics Express 8.6 (2017), pp. 2976-2989. URL: https://doi.org/10.1364/BOE.8.002976
 We especially thank Derin Sevenler for sharing his code with us and a helpful discussion!
 
